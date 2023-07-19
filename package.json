@@ -1,0 +1,19 @@
+{
+  "name": "gpt4-cli",
+  "version": "1.0.0",
+  "description": "gpt4 wrapper to pay for gpt4 on a per usage basis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rob",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "chalk": "2.4",
+    "dotenv": "8.0",
+    "node-file-dialog": "^1.0.3",
+    "openai": "^3.3.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
