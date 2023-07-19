@@ -2,6 +2,7 @@
 
 Basic implementation of the openai gpt models in a terminal interface. This was made to use gpt4 on a per usage basis rather than a flat $20 fee. It's also fun to run this in the terminal. This requires you own openai api key and access to the gpt-4 model.
 
+![image of console](https://raw.githubusercontent.com/robertncoomber/gpt4-cli/main/readme-img.png)
 
 ### Setup
 This is a basic node app.
